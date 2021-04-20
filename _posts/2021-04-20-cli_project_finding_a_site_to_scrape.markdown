@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Project: Finding a Site to Scrape"
-date:       2021-04-20 23:18:17 +0000
+date:       2021-04-20 19:18:17 -0400
 permalink:  cli_project_finding_a_site_to_scrape
 ---
 
